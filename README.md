@@ -2,7 +2,7 @@
 
 ## Course Name: Digital Logic and Design
 
-## Video Demonstration: 
+## Video Demonstration: https://www.youtube.com/watch?v=JJUvIpAJsuE
 
 ## Project Idea:
 
@@ -17,6 +17,10 @@ The project has 4 essential components:
 ### 1. Virtual Keypad
 
 The keypad features 10 digits (0-9) and three operators (+,-,=). each of which is calibrated with respect to distance ranges.
+
+Inline-style: 
+![](images/vkp.png)
+
 
 ### 2. Adder / Subtractor Circuit
 
