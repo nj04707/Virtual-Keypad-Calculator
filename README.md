@@ -17,7 +17,7 @@ The project has 4 essential components:
 ### 1. Virtual Keypad
 
 The keypad features 10 digits (0-9) and three operators (+,-,=). each of which is calibrated with respect to distance ranges.
-
+[]: images/vkp.jfif "Logo Title Text 2"
 
 ### 2. Adder / Subtractor Circuit
 
