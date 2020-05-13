@@ -2,6 +2,10 @@
 
 ## Course Name: Digital Logic and Design
 
+## Project Partners: 
+
+Mehdi Khorasani, Ali Haider Rizvi , Abbas Haider
+
 ## Video Demonstration: https://www.youtube.com/watch?v=JJUvIpAJsuE
 
 ## Project Idea:
